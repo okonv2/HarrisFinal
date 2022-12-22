@@ -27,8 +27,7 @@ namespace HarrisFinal
         {
             showmenu(studentpanelmenu);
         }
-
-
+        
         private void button2_Click(object sender, EventArgs e)
         {
             showmenu(staffpanelmenu);
@@ -136,7 +135,7 @@ namespace HarrisFinal
             //...
             hidemenu();
         }
-
+        
         private void classesbutton_Click(object sender, EventArgs e)
         {
             showmenu(classespanelmenu);
